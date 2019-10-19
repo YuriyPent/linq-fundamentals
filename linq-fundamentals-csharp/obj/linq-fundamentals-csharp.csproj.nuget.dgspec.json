@@ -1,0 +1,59 @@
+{
+  "format": 1,
+  "restore": {
+    "C:\\study\\C#\\LINQ Fundamentals\\linq-fundamentals\\linq-fundamentals-csharp\\linq-fundamentals-csharp.csproj": {}
+  },
+  "projects": {
+    "C:\\study\\C#\\LINQ Fundamentals\\linq-fundamentals\\linq-fundamentals-csharp\\linq-fundamentals-csharp.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\study\\C#\\LINQ Fundamentals\\linq-fundamentals\\linq-fundamentals-csharp\\linq-fundamentals-csharp.csproj",
+        "projectName": "linq-fundamentals-csharp",
+        "projectPath": "C:\\study\\C#\\LINQ Fundamentals\\linq-fundamentals\\linq-fundamentals-csharp\\linq-fundamentals-csharp.csproj",
+        "packagesPath": "C:\\Users\\yurap\\.nuget\\packages\\",
+        "outputPath": "C:\\study\\C#\\LINQ Fundamentals\\linq-fundamentals\\linq-fundamentals-csharp\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\yurap\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp2.1"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp2.1": {
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp2.1": {
+          "dependencies": {
+            "Microsoft.NETCore.App": {
+              "target": "Package",
+              "version": "[2.1.0, )",
+              "autoReferenced": true
+            }
+          },
+          "imports": [
+            "net461"
+          ],
+          "assetTargetFallback": true,
+          "warn": true
+        }
+      }
+    }
+  }
+}
